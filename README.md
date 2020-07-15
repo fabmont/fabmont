@@ -10,6 +10,7 @@ Software Engineer @ Novatics
 Code-crazy developer, enthusiast of good development practices and tech lover.
 
 I started career in software development when I was only 14 and since then I never stopped! 🚀
+
 I love learning and applying all the knowledge I get about web and mobile development into the projects I participate.
 
 "[...] because the people who are crazy enough to think they can change the world, are the ones who do."
