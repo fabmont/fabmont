@@ -1,7 +1,7 @@
 
 # Fabrício Monteiro 
 
-Software Engineer @ Novatics
+Frontend Engineer @ Cornershop by Uber
 
 [![Twitter Badge](https://img.shields.io/badge/-@fabsmont-3082ab?style=flat-square&labelColor=3082ab&logo=twitter&logoColor=white&link=https://twitter.com/fabsmont)](https://twitter.com/fabsmont) 
 [![Linkedin Badge](https://img.shields.io/badge/-Fabrício%20Monteiro-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabmont/)](https://www.linkedin.com/in/fabmont/) 
