@@ -10,8 +10,6 @@ Frontend Engineer @ [Cornershop by Uber](https://www.cornershopapp.com)
 
 Code-crazy developer, enthusiast of good development practices, tech lover and tech content creator.
 
-I started career in software development when I was only 14 and since then I never stopped! 🚀
-
 I love learning and applying all the knowledge I get about web and mobile development into the projects I participate.
 
 "[...] because the people who are crazy enough to think they can change the world, are the ones who do."
