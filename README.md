@@ -8,7 +8,9 @@ Frontend Engineer @ [Cornershop by Uber](https://www.cornershopapp.com)
 [![Gmail Badge](https://img.shields.io/badge/-fabriciosantos47@gmail.com-FFFFFF?style=flat-square&logo=Gmail&logoColor=E55035&link=mailto:fabriciosantos47@gmail.com)](mailto:fabriciosantos47@gmail.com)
 [![YouTube Badge](https://img.shields.io/badge/-Fabrício%20Monteiro-E54F0D?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCiJHIHP-suKBwZnJRJ47fwA)](https://www.youtube.com/channel/UCiJHIHP-suKBwZnJRJ47fwA)
 
-Code-crazy developer, enthusiast of good development practices, tech lover and tech content creator.
+Hey there! I'm **Fabs** (or Fabrício if you can spell it 😅)
+
+I am a code-crazy developer, enthusiast of good development practices, tech lover and tech content creator - when I have some time ⏳.
 
 I love learning and applying all the knowledge I get about web and mobile development into the projects I participate.
 
